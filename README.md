@@ -1,11 +1,18 @@
-# Stanford Big Earth Mapbox Workshop
+# Stanford Big Earth Mapbox Workshop 2022
 
 ## Introduction to Digital Mapping
 
 - [The slides](https://github.com/meganluisa/Stanford-Big-Earth-2022/files/8493453/Stanford.Big.Earth.Presentation.pdf)
 
+## Hands-on Workshop Resources
+*Mapbox Studio* 
+- 2019 Amazon fires heatmap style ID: `mapbox://styles/eemapbox/cl1wi0txi000314k6vthz8lbr` and [copy link](https://api.mapbox.com/styles/v1/eemapbox/cl1wi0txi000314k6vthz8lbr.html?title=copy&access_token=pk.eyJ1IjoibWVnYW4tbHVpc2EiLCJhIjoiY2wxenNxc2hkMGpzczNjcGVzbzZuaGhnZCJ9.yfS6dIQqI9OgBf4zY85bNQ#2.85/-17.59/-36.65)
 
-## Resources
+*Mapbox GL JS*
+- Interactive Storytelling Glitch [code](https://glitch.com/edit/#!/stanford-storytelling-map) and [live site](https://stanford-storytelling-map.glitch.me)
+- Map comparison Glitch [code](https://glitch.com/edit/#!/swipe-map-stanford) and [live site](https://swipe-map-stanford.glitch.me)
+
+## Extra Resources
 
 ### Mapbox Resources
 | Resource                                  | Description/link                                                                                                                           |
